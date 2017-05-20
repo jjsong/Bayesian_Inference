@@ -6,5 +6,11 @@
 
 ![](./images/BI_03.png)
 
-![](./images/BI_04.png)
+
+
+
+
+![](./images/BI_04_Naive.png)
+
+
 
