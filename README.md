@@ -4,11 +4,15 @@
 
 ![](./images/BI_02.png)
 
+
+
+## Bayesian_Prediction
+
 ![](./images/BI_03.png)
 
 
 
-
+## Naive Bayes
 
 ![](./images/BI_04_Naive.png)
 
